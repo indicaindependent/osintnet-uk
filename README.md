@@ -11,11 +11,8 @@ Landing page for **Indica Independent Media** — a directory of open-source int
 | Tool | Description | URL |
 |---|---|---|
 | SENTINEL | Surveillance contract AI agent | sentinel.osintnet.uk |
-| FaceHeatMap | Facial recognition tracker | faceheatmap.app |
-| StraitTracker | Hormuz geopolitical intel | tracker.warheatmap.app |
 | WarHeatMap | Global conflict mapping | warheatmap.app |
 | AiecoSense | Environmental justice AI | aiecosense.com |
-| VoxTerrae | Citizen voice platform | voxterrae.app |
 | NY BizHer | LLC wizard for women entrepreneurs | bizher.osintnet.uk |
 
 ## Deploy
