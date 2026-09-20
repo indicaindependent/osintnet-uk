@@ -793,11 +793,6 @@ async function handleRequest(request) {
           <span class="c-name">Bluesky</span>
           <span class="c-handle">@indicaindependent</span>
         </a>
-        <a href="https://discord.gg/indicaindependent" target="_blank" rel="noopener" class="connect-card">
-          <span class="c-icon">&#128172;</span>
-          <span class="c-name">Discord</span>
-          <span class="c-handle">Indica Independent Media</span>
-        </a>
         <a href="https://sentinel.osintnet.uk" target="_blank" rel="noopener" class="connect-card">
           <span class="c-icon">&#128269;</span>
           <span class="c-name">SENTINEL</span>
