@@ -23,7 +23,7 @@ async function handleRequest(request) {
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Indica Independent Media — Open Intelligence Tools</title>
-  <meta name="description" content="Indica Independent Media — open-source intelligence tools and AI platforms built for communities that need them most. SENTINEL, FaceHeatMap, StraitTracker, AiecoSense, VoxTerrae and more."/>
+  <meta name="description" content="Indica Independent Media — open-source intelligence tools and AI platforms built for communities that need them most. SENTINEL, FaceHeatMap, StraitTracker, AiecoSense and more."/>
   <meta name="keywords" content="OSINT, surveillance transparency, facial recognition tracking, environmental justice AI, conflict intelligence, Cloudflare Workers, open source intelligence"/>
   <meta property="og:title" content="Indica Independent Media — Open Intelligence Tools"/>
   <meta property="og:description" content="Open-source intelligence and AI platforms built for vulnerable communities. Independent. Edge-native. Always watching."/>
@@ -697,17 +697,6 @@ async function handleRequest(request) {
           <div class="tool-name">AiecoSense</div>
           <div class="tool-desc">Environmental justice AI. Claude-powered plain-language reports from EPA, CDC &amp; FEMA data. EJScreen for real communities.</div>
           <div class="tool-link">aiecosense.com &rarr;</div>
-        </a>
-
-        <a href="https://voxterrae.app" target="_blank" rel="noopener" class="tool-card ai fade-in">
-          <div class="card-header">
-            <span class="card-badge badge-ai">AI</span>
-            <span class="live-dot">LIVE</span>
-          </div>
-          <div class="tool-icon">&#127897;&#65039;</div>
-          <div class="tool-name">VoxTerrae</div>
-          <div class="tool-desc">Multilingual community ground truth from conflict zones. Any language. Claude translates and synthesizes. Geospatial heatmap.</div>
-          <div class="tool-link">voxterrae.app &rarr;</div>
         </a>
 
         <a href="https://bsky.app/profile/indicaindependent.bsky.social" target="_blank" rel="noopener" class="tool-card intel fade-in">
